@@ -1,0 +1,16 @@
+1
+postaja1
+mjesto1
+tocka1
+2
+postaja2
+mjesto2
+tocka2
+3
+postaja3
+mjesto3
+tocka3
+4
+postaja4
+mjesto4
+tocka4
